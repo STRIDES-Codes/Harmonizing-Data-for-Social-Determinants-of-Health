@@ -4,7 +4,7 @@ Social determinants of health are gaining increased recognition as significant f
 
 ![SDOh img](https://user-images.githubusercontent.com/61101343/123151767-6cdb6f80-d429-11eb-8a6e-8a6b1c0ffeab.jpg)
 
-Fast Health Interoperability Resources (FHIR) is an Health Level 7 (HL7) standard designed to overcome technical shortcomings of previous standards, it uses generic definitions of common healthcare concepts to cover typical use cases and easily exchanges data in XML and JSON formats.3 It is presently used to exchange data between EHRs and have been adopted by other big technology companies to standardize health data exchange.
+Fast Health Interoperability Resources (FHIR) is an Health Level 7 (HL7) standard designed to overcome technical shortcomings of previous standards, it uses generic definitions of common healthcare concepts to cover typical use cases and easily exchanges data in XML and JSON formats. It is presently used to exchange data between EHRs and have been adopted by other big technology companies to standardize health data exchange.
 Ensuring the easier exchange of this data will allow healthcare providers to better coordinate care, stratify risk, address important population health issues, and improve community-based care. This will be dependent on the capacity to easily harmonize this data across platforms and creation of tools that FHIR can use to more efficiently transmit this data.
 
 ### Purpose
