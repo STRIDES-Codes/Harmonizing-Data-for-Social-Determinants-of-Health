@@ -10,6 +10,7 @@ Ensuring the easier exchange of this data will allow healthcare providers to bet
 ### Purpose
 The aim of this project is to create a system/registry that can serve as the backbone of a SDOH Application program interface (API) that can be used as a template and reference for transmitting SDOH data between EHRs and across different platforms. 
 
+### Workflow
 ![image](https://user-images.githubusercontent.com/61101343/123152081-ce9bd980-d429-11eb-8cbf-3ec61c1d5d0f.png)
 
 ### References
