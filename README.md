@@ -12,7 +12,7 @@ The aim of this project is to create a system/registry that can serve as the bac
 
 ![image](https://user-images.githubusercontent.com/61101343/123152081-ce9bd980-d429-11eb-8cbf-3ec61c1d5d0f.png)
 
-### Reference
+### References
 1. Braveman P, Gottlieb L. The Social Determinants of Health: It’s Time to Consider the Causes of the Causes. Public Health Rep. 2014;129(Suppl 2):19–31.
 2. Galea S, Tracy M, Hoggatt KJ, Dimaggio C, Karpati A. Estimated deaths attributable to social factors in the United States. Am J Public Health. 2011 Aug;101(8):1456–65.
 3. Lehne M, Sass J, Essenwanger A, Schepers J, Thun S. Why digital medicine depends on interoperability. npj Digit Med. 2019 Aug 20;2(1):1–5.
