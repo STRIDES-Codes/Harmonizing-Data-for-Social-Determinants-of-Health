@@ -1,4 +1,8 @@
 # DEVELOPMENT OF FHIR BASED API FOR SDOH DATA EXCHANGE 
+#### Team Members: 
+
+
+
 ### Background
 Social determinants of health are gaining increased recognition as significant factors that influence healthcare outcomes for different patients. A meta-analysis by Gale and colleagues showed that the number of deaths attributable to education, racial segregation, and low social support are comparable to deaths due to myocardial infarction, cerebrovascular disease, and lung cancer. This has led to increased attention on the collection and coding of SDOH data in the EHRs to support care.
 
@@ -19,5 +23,4 @@ The aim of this project is to create a system/registry that can serve as the bac
 3. Lehne M, Sass J, Essenwanger A, Schepers J, Thun S. Why digital medicine depends on interoperability. npj Digit Med. 2019 Aug 20;2(1):1–5.
 
 ### Tools
-### Team Members
 
