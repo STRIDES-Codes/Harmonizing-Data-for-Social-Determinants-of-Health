@@ -1,9 +1,6 @@
 # DEVELOPMENT OF FHIR BASED API FOR SDOH DATA EXCHANGE 
 ## Team Members: 
- ##### Tara Swelstad
- ##### James Burroughs
- ##### Julia Gichimu
- ##### Ayomide Owoyemi
+ ##### Tara Swelstad, James Burroughs, Julia Gichimu, Ayomide Owoyemi.
 
 
 ## Background
