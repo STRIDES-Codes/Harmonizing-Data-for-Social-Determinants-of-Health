@@ -4,7 +4,7 @@
 
 
 ### Background
-Social determinants of health are gaining increased recognition as significant factors that influence healthcare outcomes for different patients. A meta-analysis by Gale and colleagues showed that the number of deaths attributable to education, racial segregation, and low social support are comparable to deaths due to myocardial infarction, cerebrovascular disease, and lung cancer. This has led to increased attention on the collection and coding of SDOH data in the EHRs to support care.
+Social determinants of health (SDOH) are gaining increased recognition as significant factors that influence healthcare outcomes for different patients. A meta-analysis by Gale and colleagues showed that the number of deaths attributable to education, racial segregation, and low social support are comparable to deaths due to myocardial infarction, cerebrovascular disease, and lung cancer. This has led to increased attention on the collection and coding of SDOH data in the EHRs to support care.
 
 ![SDOh img](https://user-images.githubusercontent.com/61101343/123151767-6cdb6f80-d429-11eb-8a6e-8a6b1c0ffeab.jpg)
 
